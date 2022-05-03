@@ -1,0 +1,35 @@
+<nav class="navbar navbar-dark bg-primary">
+		  <a class="navbar-brand" href="#"><img src="img/SigleEnsaKhouribga.jfif"></a>
+		  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+		  </button>
+		  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+		    <ul class="navbar-nav">
+		      <li class="nav-item active">
+		        <a class="nav-link" href="#">Accueil espace<span class="sr-only">(current)</span></a>
+		      </li>
+		      <li class="nav-item">
+		        <a class="nav-link" href="#"><a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Gestion de la liste des partenaires</a>
+		        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+		          <a class="dropdown-item" href="#">Fiches descriptives des conventions contractés</a>
+		          <a class="dropdown-item" href="#">Lancer/Fermer les candidatures à une mobilité</a>
+		          <a class="dropdown-item" href="#">Procédures/Modalités/Calendriers des candidatures</a>
+		        </div></a>
+		      </li>
+		      <li class="nav-item">
+		        <a class="nav-link" href="#"><a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Gestion de la liste des étudiants concérnés</a>
+		        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+		          <a class="dropdown-item" href="#">Importer la liste des étudiants concernés</a>
+		          <a class="dropdown-item" href="#">Ajouter/Modifier/Supprimer un étudiant</a>
+		        </div></a>
+		      </li>
+		      <li class="nav-item dropdown">
+		        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Gestion de la liste des candidats</a>
+		        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+		          <a class="dropdown-item" href="#">Action</a>
+		          <a class="dropdown-item" href="#">Another action</a>
+		          <a class="dropdown-item" href="#">Something else here</a>
+		        </div>
+		      </li>
+		    </ul>
+		  </div>
+		</nav>
