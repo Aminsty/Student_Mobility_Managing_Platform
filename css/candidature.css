@@ -1,0 +1,27 @@
+body{
+    background-image: linear-gradient(to bottom, white, #D0D0D0);
+    font-size: 1.1em;
+    font-weight: bold;
+}
+body, html{
+    height: 100%;
+}
+form{
+    margin-top: 5%;
+    margin-left: 41%;
+}
+h1{
+    text-align: center;
+    margin: auto;
+}
+.top-container{
+    display: flex;
+    position: relative;
+}
+.submit{
+    margin-left: 15%;
+    margin-top: 5%;
+}
+textarea{
+    height: 80px;
+}

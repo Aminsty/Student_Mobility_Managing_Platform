@@ -1,0 +1,38 @@
+a{
+	font-size: 20px;
+	font-family: serif;
+}
+img {
+	height: 138px;
+}
+nav{
+	height: auto;
+	box-shadow: 0 0 5px 0 gray;
+}
+.nav-custom{
+	background-image: linear-gradient(to bottom, #e3f2fd, white);
+}
+.navbar-nav{
+	margin-left: auto;
+}
+.nav-item{
+	margin-left: 8px;
+}
+.top-page{
+	height: 70px;
+}
+main{
+	background-color: #B8F5BA;
+	font-family: Georgia, serif;
+}
+h1{
+	text-align: center;
+}
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+  margin-left: 45%;
+}
+th, td {
+  background-color: #96D4D4;
+}

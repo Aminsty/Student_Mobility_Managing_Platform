@@ -1,0 +1,50 @@
+body{
+	background-image: url(../img/background.png);
+}
+a{
+	font-size: 20px;
+	font-family: serif;
+}
+nav{
+	height: auto;
+	box-shadow: 0 0 5px 0 gray;
+}
+.nav-custom{
+	background-image: linear-gradient(to bottom, white, lightgray);
+}
+.navbar-nav{
+	margin-left: auto;
+}
+.nav-item{
+	margin-left: 8px;
+}
+h1{
+	color: #323D5B;
+}
+main{
+	font-family: Georgia, serif;
+}
+h1{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+table{
+	width: 70%;
+  background-color: white;
+}
+table, th, td {
+  margin-left: 6%;
+  padding: 10px;
+}
+.content-holder{
+	width: 1200px;
+}
+@media (max-width: 768px){
+	td, th, table{
+		display: block;
+	}
+	table{
+		max-width: 400px;
+	}
+}
